@@ -1,0 +1,40 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Data directories
+data_single/
+data_chunked/
+data_individual/
+benchmark_output/
+
+# Compiled binaries
+*.exe
+*.out
+dune_benchmark
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
