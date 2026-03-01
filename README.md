@@ -64,7 +64,9 @@ Python version:
 
 
 ## Results
+C++
+<img width="1463" height="965" alt="image" src="https://github.com/user-attachments/assets/7318964d-b765-4594-bdf2-e0ae087ea5fb" />
 
-- Write/read times in seconds and MB/s
-- Disk usage and file counts
-- Verification status
+
+Python 
+
