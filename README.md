@@ -4,7 +4,7 @@ Benchmark comparing three storage strategies for DUNE warm-up exercise. Tests wr
 
 Two implementations:
 - **cppVersion/** - C++ implementation with full validation
-- **pythonVersion/** - Python notebook version (quicker to iterate)
+- **pythonVersion/** - Python notebook version
 
 ## C++ Quick Start
 
