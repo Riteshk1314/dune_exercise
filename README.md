@@ -19,11 +19,10 @@ On Windows use the VS generator or NMake. Linux/mac just need cmake and a compil
 
 ## Python Version
 
-The Python version is in `pythonVersion/storage_benchmark.ipynb`. Just open the notebook and run the cells. Needs Python 3.8+ and matplotlib for the plots.
+The Python version is in `pythonVersion/storage_benchmark.ipynb`. Just open the notebook and run the cells. Needs Python 3.8+ 
 
 ```bash
 cd pythonVersion
-pip install matplotlib
 jupyter notebook storage_benchmark.ipynb
 ```
 
